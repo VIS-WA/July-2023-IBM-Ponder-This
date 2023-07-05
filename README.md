@@ -1,13 +1,13 @@
-# July-2023-IBM-Ponder-This
+# IBM-Ponder-This-July-2023
 
 
-This repo contains a puzzle game implemented in Python using the Pygame library. This game is based on the board game featured in [IBM's July Monthly Ponder This Challenge](https://research.ibm.com/haifa/ponderthis/challenges/July2023.html).
+This repo contains a puzzle game implemented in Python using the Pygame library. This game is based on the board game featured in [IBM's Ponder This July 2023 Challenge](https://research.ibm.com/haifa/ponderthis/challenges/July2023.html).
 ## Controls
 - Use the arrow keys to move the selected block: Up, Down, Left, and Right.
 - Press 'r' to reset the game, which will set the blocks to their initial configuration.
 - Press 'u' to undo the last move.
 - Press 'p' to print the move history.
-- Press 'q' to quit the game window and end thescript
+- Press 'q' to quit the game window and end the script
 
 ## Features
 
