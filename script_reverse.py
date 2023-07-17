@@ -24,10 +24,10 @@ grid = [[0 for _ in range(n)] for _ in range(n)]
 def reset_grid(grid):
     n = len(grid)
     # Create the game grid
-    grid[1][0] = 1
-    grid[2][0] = 1
-    grid[3][0] = 4
-    grid[4][0] = 4
+    grid[1][0] = 4
+    grid[2][0] = 4
+    grid[3][0] = 1
+    grid[4][0] = 1
     grid[0][1] = 2
     grid[1][1] = 2
     grid[0][2] = 2
@@ -40,10 +40,10 @@ def reset_grid(grid):
     grid[2][2] = 8	
     grid[3][4] = 5
     grid[3][3] = 6
-    grid[4][4] = 7
-    grid[4][3] = 7
-    grid[4][2] = 9
-    grid[4][1] = 9
+    grid[4][4] = 9
+    grid[4][3] = 9
+    grid[4][2] = 7
+    grid[4][1] = 7
 	
     '''
     grid[0][0] = 1
